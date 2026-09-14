@@ -1,0 +1,4 @@
+flask
+pillow
+imagehash
+send2trash
